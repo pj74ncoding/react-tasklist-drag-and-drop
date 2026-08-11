@@ -1,0 +1,15 @@
+.added-jobs {
+    height: auto;
+    border: 1px solid grey;
+    text-align: center;
+    width: 20%;
+    color: grey;
+    height: 250px;
+    scrollbar-width: none;
+    overflow: scroll
+
+}
+
+.added-jobs > h2 {
+    text-decoration: underline ;
+}

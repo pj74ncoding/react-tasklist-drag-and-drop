@@ -1,0 +1,62 @@
+.dropdown-and-localstorage-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+  border: 4px solid grey;
+  border-radius: 5px;
+  padding-bottom: 5px;
+}
+
+.drop-down {
+  height: auto;
+  border: 1px solid grey;
+  cursor: pointer;
+  color: black;
+  width: 150px;
+  padding: 5px;
+  background-color: yellow;
+}
+
+.drop-down:hover {
+  background-color: green;
+  color: yellow;
+}
+
+.drop-down > a {
+  text-decoration: none;
+}
+
+option {
+  color: green;
+}
+
+select,
+::picker(select) {
+  appearance: base-select;
+}
+
+option:hover,
+option:focus {
+  background-color: yellow;
+}
+
+.storage-button-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.storage-button-container button {
+  background-color: rgba(0, 128, 0, 0.344);
+  padding: 5px;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 80px;
+}
+
+.storage-button-container button:hover {
+  background-color: yellowgreen;
+}

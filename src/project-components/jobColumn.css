@@ -1,0 +1,23 @@
+
+.section {
+    border: 1px solid grey;
+    background-color: white;
+    border-radius: 6px;
+    line-height: 1;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.button-container {
+    display: flex;
+    height: auto;
+    width: 100%;
+
+    justify-content: space-around;
+   
+
+}

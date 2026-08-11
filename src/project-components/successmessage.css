@@ -1,0 +1,18 @@
+.message-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 37.3%;
+  border: 1px solid rgb(123, 222, 123);
+  position: absolute;
+  width: 27.8%;
+  background-color: rgba(126, 253, 126);
+  left: 297.5px;
+}
+
+img {
+  width: 20%;
+  border-radius: 50%;
+  border: 2px solid orange;
+  box-shadow: 2px 2px 2px grey;
+}

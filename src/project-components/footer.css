@@ -1,0 +1,12 @@
+.footer-foot {
+  height: 40px;
+  width: 100vw;
+  background-color: white;
+  color: orange;
+  font-weight: bolder;
+  padding: 5px;
+  border: 1px solid orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

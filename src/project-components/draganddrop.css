@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(128, 0, 128, 0.633)
+}
+
+.left-box, .right-box  {
+width: 300px;
+min-height: 400px;
+margin: 20px;
+border: 2px dashed white; ;
+}
+
+.listitem {
+    height: 60px;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    cursor: grab;
+    background-color: #fff;
+}
+
+.list-item img {
+     width: 20px; 
+     margin-right: 15px;
+     margin-left: 20px;
+}
