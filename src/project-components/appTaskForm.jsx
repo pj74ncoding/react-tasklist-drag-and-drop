@@ -11,7 +11,7 @@ import { WebsiteDropdown } from "./dropdown.jsx";
 import { JobDropdown } from "./jobDropDown.jsx";
 import { SuccessMessage } from "./successmessage.jsx";
 
-import { typeOf } from "react-is";
+// import { typeOf } from "react-is";
 import { PeteDragAndDrop } from "./newestdraganddrop/newdraganddrop.jsx";
 
 function AppTaskForm() {
