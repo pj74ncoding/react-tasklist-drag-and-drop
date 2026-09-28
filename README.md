@@ -1,4 +1,4 @@
-# react-tasklist
+# react-tasklist-drag-and-drop
 
 A tasklist with multiple functionality and a drag and drop section
 
