@@ -69,6 +69,8 @@ To build a tasklist that provides multiple functionality to the user.
 
 Client (Frontend)
 
+Folder Structure Example:
+
 ```
 
 2.
@@ -82,7 +84,6 @@ client/
     +---project-Components
         +---newestdraganddrop
 
-
 ```
 
 ---
@@ -95,7 +96,6 @@ client/
 git clone https://github.com/pj74ncoding/react-tasklist-drag-and-drop.git
 cd  react-tasklist-drag-and-drop
 
-
 ```
 
 ### Install Dependencies
@@ -104,7 +104,6 @@ Frontend:
 
 ```bash
 cd react-tasklist-drag-and-drop
-
 npm install
 ```
 
