@@ -41,7 +41,7 @@ To build a tasklist that provides multiple functionality to the user.
 - A success message when the job is added
 - Display job list on and off section and return the joblist to the original array
 - Search a job by Id section and display the searched jobs
-- Buttons to add or delete the jobs from local storge
+- Buttons to add or delete the jobs from local storage
 - A website dropdown menu to link to useful websites for my coding learning
 - Filtered sections to display jobs based on the job status and delete functionality
 - Integrated a drag and drop feature with delete functionality into my code
