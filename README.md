@@ -36,7 +36,7 @@ To build a tasklist that provides multiple functionality to the user.
 
 ## Project Features
 
-- Enter new job section. Input areas include Enter Job Id, Enter Job Title and a drop down menu for the status
+- Enter new job section the input areas include Enter Job Id, Enter Job Title and a drop down menu for the status
 - Warnings displayed if the Job Id is already taken, if the Job Title is less than 5 characters and all the input fields must be filled in
 - A success message when the job is added
 - Display job list on and off section and return the joblist to the original array
